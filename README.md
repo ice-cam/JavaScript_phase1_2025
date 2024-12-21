@@ -24,11 +24,9 @@ A simple web-based task manager application built with HTML, CSS, and JavaScript
 
 
 project-root/
-├── index.html          # Main HTML file
-├── styles.css      # Stylesheet
-├── js/
-│   ├── app.js         # Application logic
-│   └── jquery.min.js  # jQuery library
+├── index.html         # Main HTML file
+├── styles.css         # Stylesheet
+├── app.js             # Application logic
 └── README.md          # Project documentation
 
 
